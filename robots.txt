@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://joshuacollin.com/sitemap.xml 
+Sitemap: https://joshcollin.com/sitemap.xml 
